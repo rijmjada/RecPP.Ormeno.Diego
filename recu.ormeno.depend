@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1626092587 source:c:\users\administrador\desktop\nueva carpeta\ordenar\recu.ormeno\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
